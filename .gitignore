@@ -1,0 +1,21 @@
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Base de datos
+*.db
+*.sqlite3
+
+# Docker
+.dockerignore
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
