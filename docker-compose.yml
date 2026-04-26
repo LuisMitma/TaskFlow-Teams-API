@@ -11,7 +11,7 @@ services:
 
   app:
     build: .
-    restart: always
+    restart: no
     env_file:
       - .env
     ports:
